@@ -1,0 +1,13 @@
+{
+    "name": "mh/chatbot",
+    "authors": [
+        {
+            "name": "Muhammad Habib",
+            "email": "mhabib555@gmail.com"
+        }
+    ],
+    "require": {
+        "botman/botman": "^2.5",
+        "botman/driver-web": "^1.5"
+    }
+}
